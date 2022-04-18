@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to SalvinInfo system. Bengaluru,Karnataka </h1>
-<h1 align="center"> SalvinInfo system- is a Very Good Training center for DevOps with AWS in Koramangla Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> SalvinInfo system- is a Good Training center for DevOps with AWS in Koramangla Bangalore India Here we will be Teaching Real Time scnerios with examples...</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
